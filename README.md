@@ -9,6 +9,10 @@ Es necesario tener instalado Node.js
 npm install
 ```
 
+Argumentos a utilizar
+--base (Número necesario)
+--limite (Número, 10 por defecto, si no se especifica)
+
 Para crear un archivo txt con la tabla
 ```
 node app crear --base=10 --limite=100
